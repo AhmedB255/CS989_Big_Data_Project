@@ -10,7 +10,7 @@ For the supervised approach, the [Decision Trees](https://scikit-learn.org/stabl
 <br />
 For the unsupervised approach, the [KMeans](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html) algorithm was chosen.
 <br /> <br />
-No advanced techniques were implemented. This was just us focusing purely on analyzing the dataset and the scope we covered is suitable for a fundamentals course.
+No advanced techniques were implemented. This was just us focusing purely on analyzing the dataset and the scope we covered was suitable for a fundamentals course.
 
 ## Contributors
 <ul>
